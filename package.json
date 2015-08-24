@@ -1,0 +1,35 @@
+{
+  "name": "observ-mobile",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Observable mobile viewport state",
+  "license": "MIT",
+  "repository": "bendrucker/observ-mobile",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "observable",
+    "mobile",
+    "viewport"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "dom-delegator": "~13.1.0",
+    "global": "~4.3.0",
+    "minimum-viewport": "~1.0.0",
+    "observ": "~0.2.0",
+    "observ-struct": "~6.0.0",
+    "screen-orientation": "~1.0.0"
+  }
+}
