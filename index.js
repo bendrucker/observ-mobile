@@ -15,9 +15,10 @@ var device = Struct({
 
 module.exports = device
 
-window.addEventListener('resize', onResize)
-
-onResize()
+if (window.addEventListener) {
+  window.addEventListener('resize', onResize)
+  onResize()
+}
 
 function onResize () {
   device.mobile.set(minimumViewport({x: MOBILE_WIDTH}))
