@@ -6,7 +6,7 @@ var Observ = require('observ')
 var minimumViewport = require('minimum-viewport')
 var orientation = require('screen-orientation')
 
-var MOBILE_WIDTH = 640
+var MOBILE_WIDTH = 840
 
 var device = Struct({
   mobile: Observ(false),
