@@ -1,4 +1,4 @@
-# observ-mobile [![Build Status](https://travis-ci.org/bendrucker/observ-mobile.svg?branch=master)](https://travis-ci.org/bendrucker/observ-mobile)
+# observ-mobile [![Build Status](https://travis-ci.org/bendrucker/observ-mobile.svg?branch=master)](https://travis-ci.org/bendrucker/observ-mobile) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-mobile.svg)](https://greenkeeper.io/)
 
 > Observable mobile viewport state
 
