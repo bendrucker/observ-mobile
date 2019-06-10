@@ -25,7 +25,7 @@
     "index.js"
   ],
   "dependencies": {
-    "global": "~4.3.0",
+    "global": "~4.4.0",
     "minimum-viewport": "~1.0.0",
     "observ": "~0.2.0",
     "observ-struct": "~6.0.0",
